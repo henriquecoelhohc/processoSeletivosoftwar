@@ -1,0 +1,36 @@
+/** #ef7e04 #134980
+*/
+
+
+
+
+label {
+    text-align: center;
+}
+
+ body {
+     background-color: #EEEEE0;
+    display: block;
+    text-align: center;
+    font-weight: bold;   
+}
+
+input {
+    text-align: center;
+    background-color: #F0FFF0;
+}
+
+.a {
+    margin-top: 5px;
+    background-color: #838B83;
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+}
+
+fieldset {
+    margin-left: 380px;
+    margin-right: 380px;
+}
